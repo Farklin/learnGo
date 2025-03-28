@@ -1,1 +1,5 @@
-package goLearn
+package main
+
+func main() {
+
+}
